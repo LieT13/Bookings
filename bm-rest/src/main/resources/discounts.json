@@ -1,0 +1,20 @@
+{
+  "discounts": [
+    {"city":"Madrid","discount":98},
+    {"city":"Barcelona","discount":60},
+    {"city":"Moscu","discount":13},
+    {"city":"Paris","discount":10},
+    {"city":"Ginebra","discount":99},
+    {"city":"Orlando","discount":32},
+    {"city":"Estambul","discount":44},
+    {"city":"Lisboa","discount":98},
+    {"city":"Roma","discount":93},
+    {"city":"Londres","discount":81},
+    {"city":"Pekin","discount":55},
+    {"city":"Praga","discount":37},
+    {"city":"Marrakech","discount":33},
+
+    {"city":"Shanghai","discount":40},
+    {"city":"Nueva York","discount":100}
+  ]
+}
