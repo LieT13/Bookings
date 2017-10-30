@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="bm-model" />
+        <module name="bm-repositories" />
+        <module name="bm-rest" />
+        <module name="drbbmodel" />
+        <module name="drbbrepositories" />
+        <module name="drbbrest" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="bm-model" target="1.8" />
+      <module name="bm-repositories" target="1.8" />
+      <module name="bm-rest" target="1.8" />
+      <module name="BookingManager" target="1.8" />
+      <module name="BookingsManager" target="1.8" />
+      <module name="DragonRidesBookingBackend" target="1.8" />
+      <module name="drbbmodel" target="1.8" />
+      <module name="drbbrepositories" target="1.8" />
+      <module name="drbbrest" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

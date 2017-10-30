@@ -1,0 +1,44 @@
+{
+  "fligths": [
+    {
+      "inbound:": {
+        "origin": "madrid", "destination": "barcelona", "departureDate": "20171001", "arrivalDate": "20171002"
+      },
+      "outbound": {
+        "origin": "barcelona", "destination": "madrid", "departureDate": "20171005", "arrivalDate": "20171006"
+      }
+    },
+    {
+      "inbound:": {
+        "origin": "moscu", "destination": "paris", "departureDate": "20171001", "arrivalDate": "20171002"
+      },
+      "outbound": {
+        "origin": "paris", "destination": "moscu", "departureDate": "20171005", "arrivalDate": "20171006"
+      }
+    },
+    {
+      "inbound:": {
+        "origin": "sevilla", "destination": "berlin", "departureDate": "20171001", "arrivalDate": "20171002"
+      },
+      "outbound": {
+        "origin": "berlin", "destination": "sevilla", "departureDate": "20171005", "arrivalDate": "20171006"
+      }
+    },
+    {
+      "inbound:": {
+        "origin": "londres", "destination": "tokio", "departureDate": "20171001", "arrivalDate": "20171002"
+      },
+      "outbound": {
+        "origin": "tokio", "destination": "londres", "departureDate": "20171005", "arrivalDate": "20171006"
+      }
+    },
+    {
+      "inbound:": {
+        "origin": "milan", "destination": "florencia", "departureDate": "20171001", "arrivalDate": "20171002"
+      },
+      "outbound": {
+        "origin": "florencia", "destination": "milan", "departureDate": "20171005", "arrivalDate": "20171006"
+      }
+    }
+  ]
+}
